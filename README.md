@@ -1,2 +1,2 @@
 # Eight-Queens-problem-using-Backtracking
-Solution of Eight Queens problem using Backtracking in C++
+Eight Queens problem solution using Backtracking in the C++ Programming Language
